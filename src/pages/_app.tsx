@@ -25,10 +25,10 @@ const App = ({ Component, pageProps }: AppProps) => {
           sizes="16x16"
           href="/favicon-16x16.png"
         />
-        <link rel="manifest" href="/site.webmanifest" />
+        <link rel="manifest" href="/manifest.json" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#3423A6" />
         <meta name="msapplication-TileColor" content="#3423a6" />
-        <meta name="theme-color" content="#ffffff" />
+        <meta name="theme-color" content="#171738" />
         <meta
           name="description"
           content="A simple project starter to work with typescript, react, next.js and styled component"

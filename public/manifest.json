@@ -13,7 +13,9 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    "theme_color": "#171738",
+    "description": "A simple project starter to work with typescript, react, next.js and styled component",
+    "background_color": "#171738",
+    "display": "fullscreen",
+    "start_url": "/"
 }

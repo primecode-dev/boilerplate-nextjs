@@ -26,6 +26,6 @@ export const Title = styled.h1`
 export const Description = styled.h2`
   margin-top: 1rem;
   font-size: 2.5rem;
-  width: 70rem;
+  max-width: 70rem;
   color: #7180b9;
 `
