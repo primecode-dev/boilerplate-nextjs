@@ -56,7 +56,7 @@
     "eslint-plugin-react-hooks": "^4.0.5",
     "fork-ts-checker-webpack-plugin": "^5.0.6",
     "git-commit-msg-linter": "^2.6.0",
-    "husky": "^4.2.5",
+    "husky": "^4.3.0",
     "jest": "^26.1.0",
     "jest-styled-components": "^7.0.2",
     "lint-staged": "^10.2.11",
