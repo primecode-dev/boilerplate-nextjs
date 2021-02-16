@@ -33,7 +33,7 @@
     "styled-reset": "^4.3.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.13",
+    "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.12.11",
     "@babel/preset-typescript": "^7.12.13",
     "@storybook/react": "^6.1.17",
