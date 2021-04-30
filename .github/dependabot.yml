@@ -1,0 +1,75 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  reviewers:
+  - franciscpd
+  ignore:
+  - dependency-name: fork-ts-checker-webpack-plugin
+    versions:
+    - 6.2.4
+  - dependency-name: ts-loader
+    versions:
+    - 8.0.15
+    - 9.0.0
+    - 9.1.0
+  - dependency-name: next-pwa
+    versions:
+    - 5.1.4
+    - 5.2.1
+    - 5.2.14
+    - 5.2.3
+    - 5.2.5
+  - dependency-name: "@storybook/react"
+    versions:
+    - 6.1.19
+    - 6.2.1
+    - 6.2.2
+    - 6.2.3
+    - 6.2.4
+    - 6.2.5
+    - 6.2.7
+  - dependency-name: "@storybook/addon-essentials"
+    versions:
+    - 6.1.19
+    - 6.2.1
+    - 6.2.2
+    - 6.2.3
+    - 6.2.4
+    - 6.2.5
+    - 6.2.7
+  - dependency-name: styled-components
+    versions:
+    - 5.2.2
+  - dependency-name: next
+    versions:
+    - 10.1.1
+    - 10.1.2
+  - dependency-name: "@babel/core"
+    versions:
+    - 7.12.17
+    - 7.13.13
+  - dependency-name: "@types/node"
+    versions:
+    - 14.14.24
+    - 14.14.26
+    - 14.14.30
+    - 14.14.32
+    - 14.14.34
+    - 14.14.36
+  - dependency-name: husky
+    versions:
+    - 5.1.0
+    - 5.1.2
+  - dependency-name: "@babel/preset-env"
+    versions:
+    - 7.12.13
+    - 7.12.17
+    - 7.13.0
+    - 7.13.8
+  - dependency-name: "@babel/preset-typescript"
+    versions:
+    - 7.12.17
