@@ -62,7 +62,7 @@
     "lint-staged": "^10.5.4",
     "plop": "^2.7.4",
     "prettier": "^2.2.1",
-    "ts-loader": "^9.1.1",
+    "ts-loader": "^9.1.2",
     "typescript": "^4.2.4"
   }
 }
