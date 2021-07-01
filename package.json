@@ -54,7 +54,7 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "fork-ts-checker-webpack-plugin": "^6.2.10",
+    "fork-ts-checker-webpack-plugin": "^6.2.12",
     "git-commit-msg-linter": "^3.2.6",
     "husky": "^6.0.0",
     "jest": "^27.0.4",
