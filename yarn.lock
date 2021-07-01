@@ -6647,10 +6647,10 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-git-commit-msg-linter@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-3.1.0.tgz#311120f5c67549415b29724e2375918b92e8fd87"
-  integrity sha512-NAgkdPrXgtlAogz5sifBAJuIsRV2gyeo7Wsg0jnSuPbYlCafsjj+UinnFpu7cCfXuSSt0ASXxE3shimf82xgdw==
+git-commit-msg-linter@^3.2.6:
+  version "3.2.6"
+  resolved "https://registry.yarnpkg.com/git-commit-msg-linter/-/git-commit-msg-linter-3.2.6.tgz#e2894fc21d3b69635433e1c5b161e25e6b6068d1"
+  integrity sha512-u9LolsJjHFLm12FWCnZhrhMJmHzDBP4Uz31F+OLpTSGvZW9ms6/+0hscJA9nisFU0HK0tJJ991ISomc5ajoO6A==
   dependencies:
     chalk "^2.4.2"
     did-you-mean "^0.0.1"
